@@ -1,4 +1,4 @@
-<h1 align="center">Hello World! 👋 I'm Hemalatha G</h1>
+<h1 align="center">Hello! 👋 I'm Hemalatha G</h1>
 <h3 align="center">Information Technology Undergraduate | Aspiring Software Developer</h3>
 
 <p align="center"><i>Always learning, always growing 🌱</i></p>
@@ -42,7 +42,7 @@
 
 ## 📊 GitHub Stats
 
-![Hemalatha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hemalatha-G&show_icons=true)
+![Hemalatha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hemalatha-G&show_icons=true&theme=default)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hemalatha-G&layout=compact)
 
