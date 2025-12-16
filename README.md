@@ -42,17 +42,17 @@
 
 ## 📊 GitHub Stats
 
-![Hemalatha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hemalatha-G&show_icons=true&theme=default)
+![Hemalatha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hema-ganesan&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hemalatha-G&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hema-ganesan&layout=compact)
 
 ---
 
 ## 🤝 Connect With Me
 
 - 💼 LinkedIn: [Hemalatha G](https://www.linkedin.com/in/hemalatha-g-961b68291/)
-- 📧 Email: hemaganesan2006@gmail.com
-- 💻 GitHub: https://github.com/Hemalatha-G
+- 📧 Email: ghemaganesan04@gmail.com
+- 💻 GitHub: https://github.com/Hema-ganesan
 
 ---
 
