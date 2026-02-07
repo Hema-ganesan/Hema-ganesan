@@ -56,12 +56,6 @@
 
 ---
 
-## 💗 Coding Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Hema-ganesan&theme=rose_pine&hide_border=true)
-
----
-
 ## 🤝 Connect With Me 🌷
 
 💼 **LinkedIn:** [Hemalatha G](https://www.linkedin.com/in/hemalatha-g-961b68291/)  
