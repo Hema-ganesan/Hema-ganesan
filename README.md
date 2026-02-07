@@ -1,21 +1,31 @@
 <h1 align="center">Hello! 👋 I'm Hemalatha G</h1>
 <h3 align="center">Information Technology Undergraduate | Aspiring Software Developer</h3>
 
-<p align="center"><i>Always learning, always growing 🌱</i></p>
+<p align="center">
+  <i>Always learning, always growing 🌱</i>
+</p>
+
+<p align="center">
+  🎮 Eat • Sleep • Code • Glow • Repeat ✨
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Girl+Who+Codes+💗;Future+Software+Engineer;Leveling+Up+Every+Day+✨&center=true&width=500">
+</p>
 
 ---
 
-## 🙋‍♀️ About Me
+## 🙋‍♀️ About Me 🌸
 
- 🎓 Information Technology student
- 💻 Aspiring Software Developer
- 🌱 Currently learning Data Structures & Algorithms
- 🔧 Interested in Web Development and real-world problem solving
- 🤝 Open to internships and collaborative projects
+🎓 Information Technology student  
+💻 Aspiring Software Developer  
+🌱 Currently learning **Data Structures & Algorithms**  
+🔧 Interested in **Web Development** & real-world problem solving  
+🤝 Open to **internships** and collaborative projects  
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack 💗
 
 ### 💻 Languages
 ![Java](https://img.shields.io/badge/Java-orange)
@@ -31,31 +41,42 @@
 
 ---
 
-## 📌 Projects
+## 📌 Quests (Projects) 🎯
 
--  *Gas Valve Shutoff System* – Safety-focused automation project  
--  *Smart Poultry Farm Monitoring System* – Sensor-based smart system  
--  *Temperature Converter* – Java + Web application  
--  *Notes Web App* – Simple web app using HTML, CSS & JavaScript  
-
----
-
-## 📊 GitHub Stats
-
-![Hemalatha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hema-ganesan&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hema-ganesan&layout=compact)
+🛡️ **Gas Valve Shutoff System** – Safety-focused automation project  
+🐔 **Smart Poultry Farm Monitoring System** – Sensor-based smart system  
+🌡️ **Temperature Converter** – Java + Web application  
+📝 **Notes Web App** – HTML, CSS & JavaScript  
 
 ---
 
-## 🤝 Connect With Me
+## 🎮 GitHub Game Stats
 
- 💼 LinkedIn: [Hemalatha G](https://www.linkedin.com/in/hemalatha-g-961b68291/)
- 📧 Email: ghemaganesan04@gmail.com
- 💻 GitHub: https://github.com/Hema-ganesan
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hema-ganesan&show_icons=true&theme=rose_pine&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hema-ganesan&layout=compact&theme=rose_pine&hide_border=true)
 
 ---
 
-✨ I believe in continuous learning and building meaningful technology.
+## 💗 Coding Streak (Combo Mode)
 
-✨ "Eat,Sleep,Code"
+![GitHub Streak](https://streak-stats.demolab.com?user=Hema-ganesan&theme=rose_pine&hide_border=true)
+
+---
+
+## 🐍 Contribution Snake (Game Mode)
+
+![snake gif](https://github.com/Hema-ganesan/Hema-ganesan/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🤝 Connect With Me 🌷
+
+💼 **LinkedIn:** [Hemalatha G](https://www.linkedin.com/in/hemalatha-g-961b68291/)  
+📧 **Email:** ghemaganesan04@gmail.com  
+💻 **GitHub:** https://github.com/Hema-ganesan  
+
+---
+
+✨ I believe in continuous learning and building meaningful technology.  
+✨ *Soft heart, strong skills 💗*
