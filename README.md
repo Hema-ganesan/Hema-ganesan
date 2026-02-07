@@ -7,11 +7,11 @@
 
 ## 🙋‍♀️ About Me
 
-- 🎓 Information Technology student
-- 💻 Aspiring Software Developer
-- 🌱 Currently learning Data Structures & Algorithms
-- 🔧 Interested in Web Development and real-world problem solving
-- 🤝 Open to internships and collaborative projects
+ 🎓 Information Technology student
+ 💻 Aspiring Software Developer
+ 🌱 Currently learning Data Structures & Algorithms
+ 🔧 Interested in Web Development and real-world problem solving
+ 🤝 Open to internships and collaborative projects
 
 ---
 
@@ -33,10 +33,10 @@
 
 ## 📌 Projects
 
-- 🔹 *Gas Valve Shutoff System* – Safety-focused automation project  
-- 🔹 *Smart Poultry Farm Monitoring System* – Sensor-based smart system  
-- 🔹 *Temperature Converter* – Java + Web application  
-- 🔹 *Notes Web App* – Simple web app using HTML, CSS & JavaScript  
+-  *Gas Valve Shutoff System* – Safety-focused automation project  
+-  *Smart Poultry Farm Monitoring System* – Sensor-based smart system  
+-  *Temperature Converter* – Java + Web application  
+-  *Notes Web App* – Simple web app using HTML, CSS & JavaScript  
 
 ---
 
@@ -50,9 +50,9 @@
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: [Hemalatha G](https://www.linkedin.com/in/hemalatha-g-961b68291/)
-- 📧 Email: ghemaganesan04@gmail.com
-- 💻 GitHub: https://github.com/Hema-ganesan
+ 💼 LinkedIn: [Hemalatha G](https://www.linkedin.com/in/hemalatha-g-961b68291/)
+ 📧 Email: ghemaganesan04@gmail.com
+ 💻 GitHub: https://github.com/Hema-ganesan
 
 ---
 
