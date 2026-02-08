@@ -7,10 +7,6 @@
 🎮 Eat • Sleep • Code • Glow • Repeat ✨
 </p>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Girl+Who+Codes+💗;Future+Software+Engineer;Leveling+Up+Every+Day+✨&center=true&width=500">
-</p>
-
 ---
 
 ## 🙋‍♀️ About Me 🌸
