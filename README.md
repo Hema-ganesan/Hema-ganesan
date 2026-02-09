@@ -44,14 +44,6 @@
 
 ---
 
-## 📊 GitHub Stats 🎮
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hema-ganesan&show_icons=true&theme=rose_pine&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hema-ganesan&layout=compact&theme=rose_pine&hide_border=true)
-
----
-
 ## 🤝 Connect With Me 🌷
 
 💼 **LinkedIn:** [Hemalatha G](https://www.linkedin.com/in/hemalatha-g-961b68291/)  
