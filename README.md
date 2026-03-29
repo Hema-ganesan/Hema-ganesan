@@ -7,10 +7,6 @@
 
 <p align="center"><i>Always learning, always growing 🌱</i></p>
 
-<p align="center">
-🎮 Eat • Sleep • Code • Glow • Repeat ✨
-</p>
-
 ---
 
 ## 🙋‍♀️ About Me 🌸
