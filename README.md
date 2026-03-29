@@ -1,6 +1,10 @@
 <h1 align="center">Hello! 👋 I'm Hemalatha G</h1>
 <h3 align="center">Information Technology Undergraduate | Aspiring Software Developer</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hema-ganesan&color=ff69b4&style=flat-square" />
+</p>
+
 <p align="center"><i>Always learning, always growing 🌱</i></p>
 
 <p align="center">
@@ -22,16 +26,16 @@
 ## 🛠 Tech Stack 💗
 
 ### 💻 Languages
-![Java](https://img.shields.io/badge/Java-orange)
-![C](https://img.shields.io/badge/C-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![HTML](https://img.shields.io/badge/HTML5-red)
-![CSS](https://img.shields.io/badge/CSS3-blue)
+![Java](https://img.shields.io/badge/Java-orange?style=flat-square)
+![C](https://img.shields.io/badge/C-blue?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square)
+![HTML](https://img.shields.io/badge/HTML5-red?style=flat-square)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=flat-square)
 
 ### ⚙️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-red)
-![GitHub](https://img.shields.io/badge/GitHub-black)
-![VS Code](https://img.shields.io/badge/VS_Code-blue)
+![Git](https://img.shields.io/badge/Git-red?style=flat-square)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square)
+![VS Code](https://img.shields.io/badge/VS_Code-blue?style=flat-square)
 
 ---
 
@@ -52,5 +56,5 @@
 
 ---
 
-✨ I believe in continuous learning and building meaningful technology.  
+✨ I believe in continuous learning and building meaningful technology  
 ✨ *Soft heart, strong skills 💗*
